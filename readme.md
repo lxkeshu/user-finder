@@ -1,3 +1,3 @@
-Javascript user finder model
+Javascript user finder model/
 ---> Case-insensitive 
 ---> Live search 
