@@ -1,0 +1,1 @@
+# Javascript user finder model
