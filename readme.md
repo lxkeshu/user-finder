@@ -1,1 +1,1 @@
-# Javascript user finder model
+Javascript user finder model
